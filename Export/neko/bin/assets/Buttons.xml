@@ -1,0 +1,6 @@
+<buttons>
+    <button name="1_0.0"
+            image="Assets/images/1_0.0.png" />
+    <button name="1_0.1"
+            image="Assets/images/1_0.1.png" />
+</buttons>

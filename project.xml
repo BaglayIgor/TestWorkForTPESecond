@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="TestWorkForTPE" package="com.sample.testworkfortpe" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="TestWorkForTPE" />
+
+	<window background="#FFFFFF" fps="60" />
+	<window width="400" height="480" />
+	<window orientation="landscape" vsync="true" antialiasing="0" if="cpp" />
+
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="feathersui" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>

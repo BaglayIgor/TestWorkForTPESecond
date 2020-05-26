@@ -1,0 +1,158 @@
+<tabs>
+	<tab name="First Tab">
+		<lines name="lines">
+			<line name="line 1">
+				<buttons name="buttons">
+					<button name="1_0.0"
+							image="assets/images/1/1_0.0.png" />
+					<button name="1_0.1"
+							image="assets/images/1/1_0.1.png" />
+					<button name="1_0.2"
+							image="assets/images/1/1_0.2.png" />
+					<button name="1_0.3"
+							image="assets/images/1/1_0.3.png" />
+				</buttons>
+			</line>
+			<line name="line 2">
+				<buttons name="buttons">
+					<button name="1_1.0"
+							image="assets/images/1/1_1.0.png" />
+					<button name="1_1.1"
+							image="assets/images/1/1_1.1.png" />
+					<button name="1_1.2"
+							image="assets/images/1/1_1.2.png" />
+					<button name="1_1.3"
+							image="assets/images/1/1_1.3.png" />
+				</buttons>
+			</line>
+			<line name="line 3">
+				<buttons name="buttons">
+					<button name="1_2.0"
+							image="assets/images/1/1_2.0.png" />
+					<button name="1_2.1"
+							image="assets/images/1/1_2.1.png" />
+					<button name="1_2.2"
+							image="assets/images/1/1_2.2.png" />
+					<button name="1_2.3"
+							image="assets/images/1/1_2.3.png" />
+				</buttons>
+			</line>
+			<line name="line 4">
+				<buttons name="buttons">
+					<button name="1_3.0"
+							image="assets/images/1/1_3.0.png" />
+					<button name="1_3.1"
+							image="assets/images/1/1_3.1.png" />
+					<button name="1_3.2"
+							image="assets/images/1/1_3.2.png" />
+					<button name="1_3.3"
+							image="assets/images/1/1_3.3.png" />
+				</buttons>
+			</line>
+		</lines>
+	</tab>
+	<tab name="Second Tab">
+		<lines name="lines">
+			<line name="line 1">
+				<buttons name="buttons">
+					<button name="2_0.0"
+							image="assets/images/2/2_0.0.png" />
+					<button name="2_0.1"
+							image="assets/images/2/2_0.1.png" />
+					<button name="2_0.2"
+							image="assets/images/2/2_0.2.png" />
+					<button name="2_0.3"
+							image="assets/images/2/2_0.3.png" />
+				</buttons>
+			</line>
+			<line name="line 2">
+				<buttons name="buttons">
+					<button name="2_1.0"
+							image="assets/images/2/2_1.0.png" />
+					<button name="2_1.1"
+							image="assets/images/2/2_1.1.png" />
+					<button name="2_1.2"
+							image="assets/images/2/2_1.2.png" />
+					<button name="2_1.3"
+							image="assets/images/2/2_1.3.png" />
+				</buttons>
+			</line>
+			<line name="line 3">
+				<buttons name="buttons">
+					<button name="2_2.0"
+							image="assets/images/2/2_2.0.png" />
+					<button name="2_2.1"
+							image="assets/images/2/2_2.1.png" />
+					<button name="2_2.2"
+							image="assets/images/2/2_2.2.png" />
+					<button name="2_2.3"
+							image="assets/images/2/2_2.3.png" />
+				</buttons>
+			</line>
+			<line name="line 4">
+				<buttons name="buttons">
+					<button name="2_3.0"
+							image="assets/images/2/2_3.0.png" />
+					<button name="2_3.1"
+							image="assets/images/2/2_3.1.png" />
+					<button name="2_3.2"
+							image="assets/images/2/2_3.2.png" />
+					<button name="2_3.3"
+							image="assets/images/2/2_3.3.png" />
+				</buttons>
+			</line>
+		</lines>
+	</tab>
+	<tab name="Last Tab">
+		<lines name="lines">
+			<line name="line 1">
+				<buttons name="buttons">
+					<button name="3_0.0"
+							image="assets/images/3/3_0.0.png" />
+					<button name="3_0.1"
+							image="assets/images/3/3_0.1.png" />
+					<button name="3_0.2"
+							image="assets/images/3/3_0.2.png" />
+					<button name="3_0.3"
+							image="assets/images/3/3_0.3.png" />
+				</buttons>
+			</line>
+			<line name="line 2">
+				<buttons name="buttons">
+					<button name="3_1.0"
+							image="assets/images/3/3_1.0.png" />
+					<button name="3_1.1"
+							image="assets/images/3/3_1.1.png" />
+					<button name="3_1.2"
+							image="assets/images/3/3_1.2.png" />
+					<button name="3_1.3"
+							image="assets/images/3/3_1.3.png" />
+				</buttons>
+			</line>
+			<line name="line 3">
+				<buttons name="buttons">
+					<button name="3_2.0"
+							image="assets/images/3/3_2.0.png" />
+					<button name="3_2.1"
+							image="assets/images/3/3_2.1.png" />
+					<button name="3_2.2"
+							image="assets/images/3/3_2.2.png" />
+					<button name="3_2.3"
+							image="assets/images/3/3_2.3.png" />
+				</buttons>
+			</line>
+			<line name="line 4">
+				<buttons name="buttons">
+					<button name="3_3.0"
+							image="assets/images/3/3_3.0.png" />
+					<button name="3_3.1"
+							image="assets/images/3/3_3.1.png" />
+					<button name="3_3.2"
+							image="assets/images/3/3_3.2.png" />
+					<button name="3_3.3"
+							image="assets/images/3/3_3.3.png" />
+				</buttons>
+			</line>
+		</lines>
+	</tab>
+</tabs>
